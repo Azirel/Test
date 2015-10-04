@@ -1,0 +1,9 @@
+c:\users\azirel\documents\visual studio 2013\Projects\TestsForInterview\foreach\bin\Debug\@foreach.exe.config
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\foreach\obj\Debug\foreach.csprojResolveAssemblyReference.cache
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\foreach\bin\Debug\@foreach.exe
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\foreach\bin\Debug\@foreach.pdb
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\foreach\obj\Debug\@foreach.exe
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\foreach\obj\Debug\@foreach.pdb
+D:\Repositories\TestsForInterview\foreach\bin\Debug\@foreach.exe.config
+D:\Repositories\TestsForInterview\foreach\obj\Debug\@foreach.exe
+D:\Repositories\TestsForInterview\foreach\obj\Debug\@foreach.pdb

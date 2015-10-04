@@ -1,0 +1,6 @@
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\EssentialHomeWork(Taks3)\bin\Debug\EssentialHomeWork(Taks3).exe.config
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\EssentialHomeWork(Taks3)\bin\Debug\EssentialHomeWork(Taks3).exe
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\EssentialHomeWork(Taks3)\bin\Debug\EssentialHomeWork(Taks3).pdb
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\EssentialHomeWork(Taks3)\obj\Debug\EssentialHomeWork(Taks3).csprojResolveAssemblyReference.cache
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\EssentialHomeWork(Taks3)\obj\Debug\EssentialHomeWork(Taks3).exe
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\EssentialHomeWork(Taks3)\obj\Debug\EssentialHomeWork(Taks3).pdb

@@ -1,0 +1,6 @@
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\CloneAndCopyTo\bin\Debug\CloneAndCopyTo.exe.config
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\CloneAndCopyTo\bin\Debug\CloneAndCopyTo.exe
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\CloneAndCopyTo\bin\Debug\CloneAndCopyTo.pdb
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\CloneAndCopyTo\obj\Debug\CloneAndCopyTo.csprojResolveAssemblyReference.cache
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\CloneAndCopyTo\obj\Debug\CloneAndCopyTo.exe
+C:\Users\Azirel\documents\visual studio 2013\Projects\TestsForInterview\CloneAndCopyTo\obj\Debug\CloneAndCopyTo.pdb

@@ -1,0 +1,16 @@
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\bin\Debug\MVPTimer.exe.config
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\bin\Debug\MVPTimer.exe
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\bin\Debug\MVPTimer.pdb
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.csprojResolveAssemblyReference.cache
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MainWindow.baml
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\App.g.cs
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer_MarkupCompile.cache
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.g.resources
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.Properties.Resources.resources
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.csproj.GenerateResource.Cache
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.exe
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.pdb
+D:\Repositories\TestsForInterview\MVPTimer\bin\Debug\MVPTimer.exe.config
+D:\Repositories\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.exe
+D:\Repositories\TestsForInterview\MVPTimer\obj\Debug\MVPTimer.pdb

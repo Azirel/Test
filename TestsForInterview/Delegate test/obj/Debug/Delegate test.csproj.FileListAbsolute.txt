@@ -1,0 +1,6 @@
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\Delegate test\bin\Debug\Delegate test.exe.config
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\Delegate test\bin\Debug\Delegate test.exe
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\Delegate test\bin\Debug\Delegate test.pdb
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\Delegate test\obj\Debug\Delegate test.csprojResolveAssemblyReference.cache
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\Delegate test\obj\Debug\Delegate test.exe
+C:\Users\Azirel\Documents\Visual Studio 2013\Projects\TestsForInterview\Delegate test\obj\Debug\Delegate test.pdb
