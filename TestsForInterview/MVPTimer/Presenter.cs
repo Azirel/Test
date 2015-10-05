@@ -23,7 +23,7 @@ namespace MVPTimer
             .Stopwatch watch);
         void Initialize()
         {
-            window.startButton_ClickEvent += Start; //Комментарий для GIT'a v1.1
+            window.startButton_ClickEvent += Start; //Комментарий для GIT'a v1.2
             window.pauseButton_ClickEvent += Pause;
             window.breakButton_ClickEvent += Reset;
         }
